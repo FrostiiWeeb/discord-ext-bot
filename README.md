@@ -2,6 +2,8 @@
 An package for discord.py
 
 ## Example:
-`py
-await
+`
+from discord.ext import bot
+
+bot = bot.Bot(command_prefix='!')
 `
