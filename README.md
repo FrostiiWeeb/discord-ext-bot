@@ -2,6 +2,9 @@
 An package for discord.py
 
 ## Example:
-`from discord.ext import bot
+from discord.ext import bot
 
-bot = bot.Bot(command_prefix='!')`
+bot = bot.Bot(command_prefix='!')
+
+### Made by:
+FrostiiWeeb
